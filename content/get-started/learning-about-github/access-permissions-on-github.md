@@ -27,7 +27,8 @@ Roles work differently for different types of accounts. For more information abo
 
 ## Personal user accounts
 
-A repository owned by a user account has two permission levels: the *repository owner* and *collaborators*. For more information, see "[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
+A repository owned by a user account has two permission levels: the *repository owner* and *collaborators*. For more information, see "[cvss-v30-specification_v1.9.pdf](https://github.com/github/docs/files/8008023/cvss-v30-specification_v1.9.pdf)
+[Permission levels for a user account repository](/articles/permission-levels-for-a-user-account-repository)."
 
 ## Organization accounts
 
